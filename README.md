@@ -1,5 +1,7 @@
 # The App
 This project is a simple visualization tool for Dijkstra's Algorithm, an algorithm for finding the shortest paths between nodes in a graph, which may represent, for example, road networks. Below is a video on how the app runs.
+
+# Video of App
 [Dijkstra's Algorithm Visualization](https://kapwi.ng/c/F5hiLmuO)
 
 
