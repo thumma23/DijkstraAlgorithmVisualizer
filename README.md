@@ -5,7 +5,7 @@ This project is a simple visualization tool for Dijkstra's Algorithm, an algorit
 [Dijkstra's Algorithm Visualization](https://kapwi.ng/c/F5hiLmuO)
 
 # Dijkstra's Algorithm
-Basically, the Dijkstra’s algorithm begins from the node to be selected, the source node, and it examines the entire graph to determine the shortest path among that node and all the other nodes in the graph. The algorithm maintains the track of the currently recognized shortest distance from each node to the source code and updates these values if it identifies another shortest path. Once the algorithm has determined the shortest path amid the source code to another node, the node is marked as “visited” and can be added to the path. This process is being continued till all the nodes in the graph have been added to the path, as this way, a path gets created that connects the source node to all the other nodes following the plausible shortest path to reach each node.
+Basically, the Dijkstra’s algorithm begins from the node to be selected, the source node, and it examines the entire graph to determine the shortest path among that node and all the other nodes in the graph. The algorithm maintains the track of the currently recognized shortest distance from each node to the source node and updates these values if it identifies another shortest path. Once the algorithm has determined the shortest path amid the source code to another node, the node is marked as “visited” and can be added to the path. This process is being continued till all the nodes in the graph have been added to the path, as this way, a path gets created that connects the source node to all the other nodes following the plausible shortest path to reach each node.
 
 # Getting Started with Create React App
 
